@@ -1,0 +1,102 @@
+{
+  "Brand": {
+    "Description": "The brand of the vehicle.",
+    "Sample Values": [
+      "Kia",
+      "Chevrolet",
+      "Mercedes",
+      "Audi",
+      "Volkswagen"
+    ]
+  },
+  "Model": {
+    "Description": "The specific model of the vehicle.",
+    "Sample Values": [
+      "Rio",
+      "Malibu",
+      "GLA",
+      "Q5",
+      "Golf"
+    ]
+  },
+  "Year": {
+    "Description": "The year the vehicle was manufactured.",
+    "Sample Values": [
+      2020,
+      2012,
+      2020,
+      2023,
+      2003
+    ]
+  },
+  "Engine_Size": {
+    "Description": "The size of the vehicle's engine in liters.",
+    "Sample Values": [
+      4.2,
+      2.0,
+      4.2,
+      2.0,
+      2.6
+    ]
+  },
+  "Fuel_Type": {
+    "Description": "The type of fuel the vehicle uses.",
+    "Sample Values": [
+      "Diesel",
+      "Hybrid",
+      "Diesel",
+      "Electric",
+      "Hybrid"
+    ]
+  },
+  "Transmission": {
+    "Description": "The type of transmission the vehicle has.",
+    "Sample Values": [
+      "Manual",
+      "Automatic",
+      "Automatic",
+      "Manual",
+      "Semi-Automatic"
+    ]
+  },
+  "Mileage": {
+    "Description": "The total distance the vehicle has been driven in kilometers.",
+    "Sample Values": [
+      289944,
+      5356,
+      231440,
+      160971,
+      286618
+    ]
+  },
+  "Doors": {
+    "Description": "The number of doors the vehicle has.",
+    "Sample Values": [
+      3,
+      2,
+      4,
+      2,
+      3
+    ]
+  },
+  "Owner_Count": {
+    "Description": "The number of previous owners the vehicle has had.",
+    "Sample Values": [
+      5,
+      3,
+      2,
+      1,
+      3
+    ]
+  },
+  "Price": {
+    "Description": "The current price of the vehicle in dollars.",
+    "Sample Values": [
+      8501,
+      12092,
+      11171,
+      11780,
+      2867
+    ]
+  }
+}

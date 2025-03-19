@@ -1,0 +1,70 @@
+[
+  {
+    "Chart_Type": "Line Chart",
+    "Description": "This chart will show the trend of vehicle prices over the years.",
+    "columns_to_use": [
+      "Year",
+      "Price"
+    ],
+    "aggregation": "Average",
+    "goal": "To analyze how vehicle prices have changed over the years."
+  },
+  {
+    "Chart_Type": "Bar Chart",
+    "Description": "This chart will display the average mileage for each brand.",
+    "columns_to_use": [
+      "Brand",
+      "Mileage"
+    ],
+    "aggregation": "Average",
+    "goal": "To compare the average mileage of vehicles across different brands."
+  },
+  {
+    "Chart_Type": "Sunburst Chart",
+    "Description": "This chart will show the distribution of engine sizes across different fuel types.",
+    "columns_to_use": [
+      "Engine_Size",
+      "Fuel_Type"
+    ],
+    "aggregation": "Count",
+    "goal": "To visualize how engine sizes vary among different fuel types."
+  },
+  {
+    "Chart_Type": "Stacked Bar Chart",
+    "Description": "This chart will display the distribution of transmission types across different brands.",
+    "columns_to_use": [
+      "Brand",
+      "Transmission"
+    ],
+    "aggregation": "Count",
+    "goal": "To compare the distribution of transmission types among different brands."
+  },
+  {
+    "Chart_Type": "Horizontal Bar Chart",
+    "Description": "This chart will show the average price of vehicles for each fuel type.",
+    "columns_to_use": [
+      "Fuel_Type",
+      "Price"
+    ],
+    "aggregation": "Average",
+    "goal": "To analyze the average price of vehicles based on fuel type."
+  },
+  {
+    "Chart_Type": "Pie Chart",
+    "Description": "This chart will display the distribution of the number of doors in the vehicles.",
+    "columns_to_use": [
+      "Doors"
+    ],
+    "aggregation": "Count",
+    "goal": "To show the proportion of vehicles with different numbers of doors."
+  },
+  {
+    "Chart_Type": "Donut Chart",
+    "Description": "This chart will show the distribution of the number of previous owners of the vehicles.",
+    "columns_to_use": [
+      "Owner_Count"
+    ],
+    "aggregation": "Count",
+    "goal": "To visualize the distribution of vehicles based on the number of previous owners."
+  }
+]
